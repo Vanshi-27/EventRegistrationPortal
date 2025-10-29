@@ -1,10 +1,10 @@
-# 🎟️ Event Registration Portal
+#  Event Registration Portal
 
-## 📘 Description
+## Description
 **Event Registration Portal** is a simple ASP.NET Core MVC web application that allows users to manage events and participant registrations.  
 It provides full **CRUD (Create, Read, Update, Delete)** functionality for both Events and Registrations, along with an easy-to-navigate interface.
 
-### ✨ Features
+### Features
 - Create, view, edit, and delete **Events**
 - Register participants for events
 - View, edit, and delete **Registrations**
@@ -14,9 +14,9 @@ It provides full **CRUD (Create, Read, Update, Delete)** functionality for both 
 
 ---
 
-## ⚙️ Installation Steps
+## Installation Steps
 
-### 1️⃣ Prerequisites
+###  Prerequisites
 Before running this project, make sure you have:
 - [.NET SDK 8.0+](https://dotnet.microsoft.com/download)
 - A text editor or IDE such as **Visual Studio Code** or **Visual Studio 2022**
